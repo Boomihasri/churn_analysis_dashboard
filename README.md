@@ -20,7 +20,7 @@ Analyze customer data to identify patterns and factors associated with churn, de
 ## 🛠️ Tools Used
 - **Analytical & Visual:**  Microsoft Excel\
   <img width="96" height="96" src="https://github.com/amanat-mahmud/useful_icons/blob/main/icons8-microsoft-excel-144.png" alt="microsoft-excel-2019--v1"/>
-- **Visualization:** Microsoft Power BI\
+- **Dashboard:** Microsoft Power BI\
   <img width="96" height="96" src=https://github.com/Boomihasri/Finance_analysis_dashboard/blob/main/power%20bi%20logo.png/>
 
 ## 📅 Dataset Overview
